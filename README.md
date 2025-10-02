@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, World!
 
-I'm Chahat Kalsi. I am a master's student in Computer Science at Stony Brook University, NY.  
-I have found my passion and purpose in pursuing the various domains of computer science, and have multiple projects ranging across all of them. I would love to learn about and contribute to your projects, so feel to reach out regarding that anytime!  
+I am pursuing a PhD in Computer Science at [New York University (NYU)](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering)'s [VIDA](https://vida.engineering.nyu.edu/) Center, where, advised by [Robert Krueger](https://kruegert.github.io/) and [Qi Sun](https://www.immersivecomputinglab.org/), I am currently researching visualization and visual analytics for 3D microscopy volumes.
+
 
 
 
